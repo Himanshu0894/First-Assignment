@@ -1,0 +1,54 @@
+body{
+    background: url(people-2604149_1920.jpg);
+}
+.menu{
+    display: inline;
+    margin: 50px;
+   background-color: #fff; 
+   
+}
+#nav{
+    border: 2px solid red;
+    text-align: right;
+    text-decoration: none;
+    
+    
+}
+.fit{
+    display: inline-block;
+    text-align: left;
+    color: cornsilk;
+}
+a{
+    text-decoration: none;
+}
+.header{
+    display: inline-block;
+    margin-top: 300px;
+    color: cornsilk;
+}
+.head{
+    color: crimson;
+}
+.footer{
+    border: 2px solid red;
+    display: block;
+    text-align: center;
+    color:black;
+    
+
+}
+#span{
+    color:blueviolet;
+    text-align: center;
+}
+.sec{
+    color: rgb(228, 17, 69);
+    margin: 30px;
+}
+article{
+    color:whitesmoke;
+}
+.time{
+    color: yellowgreen;
+}
